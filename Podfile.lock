@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.9.0)
+  - SnapKit (5.7.1)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - SnapKit
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SnapKit
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 02b772c9910e8eba1a079227c32fbd9e46c90a24
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+
+PODFILE CHECKSUM: b8da3f64895b3646ae5524b21bce05975996b29f
+
+COCOAPODS: 1.13.0
